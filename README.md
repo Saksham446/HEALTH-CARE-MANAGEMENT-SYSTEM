@@ -85,6 +85,12 @@ webapp
 │   ├── user_appointment.jsp         # User appointment management page
 │   ├── user_login.jsp               # Login page for users
 │   └── view_appointment.jsp         # Page for viewing user appointments
+
+Screenshots:-
+![p1](https://github.com/user-attachments/assets/8664b788-5526-4481-bf85-0e09871b4303)
+![doc1](https://github.com/user-attachments/assets/7f8b1af7-ae43-4fd7-ab0c-1ec6ee8325b6)
+![a1](https://github.com/user-attachments/assets/b950829c-c393-4212-94a8-66a67cba1e84)
+![d1](https://github.com/user-attachments/assets/2182f208-38d7-4db8-8ba4-b56a4e209bcb)
 target
 ├── .classpath                       # Classpath file for project dependencies
 ├── .gitignore                       # Git ignore file to exclude files from version control
