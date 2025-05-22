@@ -91,9 +91,3 @@ Screenshots:-
 ![doc1](https://github.com/user-attachments/assets/7f8b1af7-ae43-4fd7-ab0c-1ec6ee8325b6)
 ![a1](https://github.com/user-attachments/assets/b950829c-c393-4212-94a8-66a67cba1e84)
 ![d1](https://github.com/user-attachments/assets/2182f208-38d7-4db8-8ba4-b56a4e209bcb)
-target
-├── .classpath                       # Classpath file for project dependencies
-├── .gitignore                       # Git ignore file to exclude files from version control
-├── .project                         # Project configuration file (IDE-specific)
-├── README.md                        # Project documentation file
-└── pom.xml                          # Maven project configuration file (dependencies, build settings)
